@@ -14,11 +14,6 @@ A React-based website designed to manage and monitor employee clock-in times, at
 - **Mobile Support**: Optimized for mobile devices, ensuring a great user experience on all platforms.
 
 
-## Contributors
-
-- [Lior Jigalo](https://github.com/audiblemaple)
-- [Gilad Segal](https://github.com/giladsegal10)
-
 ## Links
 
 [SolidClock Website](https://solid-clock.onrender.com)
